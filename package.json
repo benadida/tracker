@@ -6,7 +6,10 @@
     "connect": "1.8.5",
     "vows": "0.5.13",
     "express": "2.5.5",
-    "redis": "0.7.2"
+    "redis": "0.7.2",
+    "ejs": "0.4.3",
+    "browserid-verifier": "0.0.4",
+    "client-sessions": "0.0.8"
   }
   , "scripts": {
     "test": "node_modules/.bin/vows"
