@@ -1,0 +1,17 @@
+{
+    "name": "tracker"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+    "connect": "1.8.5",
+    "vows": "0.5.13",
+    "express": "2.5.5",
+    "redis": "0.7.2"
+  }
+  , "scripts": {
+    "test": "node_modules/.bin/vows"
+  },
+  "engines": {
+    "node": ">= 0.6.7"
+  }
+}
